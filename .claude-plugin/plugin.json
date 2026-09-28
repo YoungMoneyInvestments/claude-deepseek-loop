@@ -1,0 +1,18 @@
+{
+  "name": "claude-deepseek-loop",
+  "description": "Four-phase plan hardening for Claude Code: DeepSeek-V4.1-Flash adversarially reviews the plan, then inspects the final code. Claude builds; DeepSeek grades.",
+  "author": {
+    "name": "Cameron Bennion",
+    "url": "https://github.com/YoungMoneyInvestments"
+  },
+  "homepage": "https://github.com/YoungMoneyInvestments/claude-deepseek-loop",
+  "license": "MIT",
+  "keywords": [
+    "planning",
+    "deepseek",
+    "cross-model",
+    "adversarial-review",
+    "claude-code"
+  ],
+  "version": "1.0.0"
+}
